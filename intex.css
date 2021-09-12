@@ -37,3 +37,27 @@ body {
 #navbar .nav-link:hover {
     color: #7a7c85;
 }
+
+#main-doc {
+    margin-left: 330px;
+}
+.main-section header {
+    margin: 20px 10px 20px 10px;
+    font-size: 40px;
+}
+.main-section p {
+    margin-top: 5px;
+}
+.main-section ul {
+    margin: 10px;
+}
+.main-section li {
+    margin-bottom: 10px;
+}
+code {
+    display: block;
+    margin: 15px 10px 15px 10px;
+    padding: 20px;
+    font-size: 15px;
+    background-color: #d7dae6;
+}
